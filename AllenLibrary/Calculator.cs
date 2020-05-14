@@ -13,11 +13,10 @@ namespace AllenLibrary
 
             return fistnumber + secondnumber;
         }
-	public Multiply(int firstnumber , int secondnumber){
+	public int  Multiply(int firstnumber , int secondnumber){
 
             return firstnumber * secondnumber;
 	}
-
 
     }
     
