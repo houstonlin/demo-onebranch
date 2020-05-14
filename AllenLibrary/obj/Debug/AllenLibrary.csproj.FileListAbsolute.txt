@@ -1,0 +1,6 @@
+C:\Users\AllenLin\Source\repos\AllenLibrary\AllenLibrary\bin\Debug\AllenLibrary.dll
+C:\Users\AllenLin\Source\repos\AllenLibrary\AllenLibrary\bin\Debug\AllenLibrary.pdb
+C:\Users\AllenLin\Source\repos\AllenLibrary\AllenLibrary\obj\Debug\AllenLibrary.csprojAssemblyReference.cache
+C:\Users\AllenLin\Source\repos\AllenLibrary\AllenLibrary\obj\Debug\AllenLibrary.csproj.CoreCompileInputs.cache
+C:\Users\AllenLin\Source\repos\AllenLibrary\AllenLibrary\obj\Debug\AllenLibrary.dll
+C:\Users\AllenLin\Source\repos\AllenLibrary\AllenLibrary\obj\Debug\AllenLibrary.pdb
